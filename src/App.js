@@ -5,7 +5,7 @@ import RealTimeClock from './scr/RealTimeClock';
 function Header() {
   return (
     <header>
-            <nav class="navbar bg-dark" data-bs-theme="dark">
+      <nav class="navbar bg-dark" data-bs-theme="dark">
         <div class="container-fluid">
           <a class="navbar-brand">Navbar</a>
           <ul class="nav nav-pills nav-fill">
