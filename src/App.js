@@ -1,6 +1,30 @@
 import logo from './logo.svg';
 import './App.css';
 
+function Header() {
+  return (
+    <header>
+      <h1>Header</h1>
+    </header>
+  );
+}
+
+function Body() {
+  return (
+    <body>
+      <h1>Footer</h1>
+    </body>
+  );
+}
+
+function Foooter() {
+  return (
+    <footer>
+      <h1>Footer</h1>
+    </footer>
+  );
+}
+
 function App() {
   return (
     <div className="App">
