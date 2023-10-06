@@ -112,13 +112,6 @@ function Body() {
   );
 }
 
-function Foooter() {
-  return (
-    <footer>
-      <h1>Footer</h1>
-    </footer>
-  );
-}
 
 function App() {
   return (
