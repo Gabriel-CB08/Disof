@@ -129,6 +129,7 @@ function App() {
         >
           Learn React
         </a>
+        <RealTimeClock />
       </header>
     </div>
   );
